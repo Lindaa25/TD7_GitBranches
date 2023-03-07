@@ -91,7 +91,7 @@ the master branch).
   ```
   ## 2. Delete your branch on distant repository.
   ```
-  git push --delete origin my-branch
+  git push --delete origin linda_he
   ```
   
   
