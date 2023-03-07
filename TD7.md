@@ -23,6 +23,17 @@ git add linda_he.txt
 git commit -m "Ajout de mon fichier txt"
 ```
 ## 4.
+```
+git checkout linda_he
+git push --set-upstream origin linda_he
+git branch -a
+```
+token : dans github --> settings --> <developer settings> --> personal access token --> token classic --> generate (cocher reto)
+  
+# Exercice 3
+  
+## 1.
+
 
 
 
