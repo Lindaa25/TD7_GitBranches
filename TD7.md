@@ -89,6 +89,10 @@ the master branch).
   ```
   git branch -d my-branch
   ```
+  ## 2. Delete your branch on distant repository.
+  ```
+  git push --delete origin my-branch
+  ```
   
   
 
