@@ -72,11 +72,17 @@ order in the final README.md file
   ```
   ## 7. Push your changes in the ’master’ branch to the remote repository.
   ```
-  git push origin main
+  
   ```
   
  # Exercice 5 :  Take latest changes from master in local branch
   
+  
+ # Exercice 6 : Delete a branch
+  ## 1. Delete your branch on local repository.
+  ```
+  git branch -d my-branch
+  ```
   
   
 
