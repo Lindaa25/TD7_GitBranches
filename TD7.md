@@ -32,7 +32,8 @@ token : dans github -> settings -> <developer settings> -> personal access token
   
 # Exercice 3
 ```
-git merge linda_he
+git checkout linda_he
+git merge main
 ```
 
   
