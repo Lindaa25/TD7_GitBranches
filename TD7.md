@@ -77,13 +77,20 @@ order in the final README.md file
   
  # Exercice 5 :  Take latest changes from master in local branch
   
- 1. Pull the latest changes in the ’master’ branch, check the README.md
+ ## 1. Pull the latest changes in the ’master’ branch, check the README.md
+  ```
+  ```
 is up-to-date (contains all the paragraphs and the new line).
-2. Switch back to your own branch (not including the latest changes from
+## 2. Switch back to your own branch (not including the latest changes from
 the master branch).
-3. Merge the changes from ’master’ to your own branch.
-4. Commit this change 
- 
+```
+```
+## 3. Merge the changes from ’master’ to your own branch.
+```
+```
+## 4. Commit this change 
+```
+```
  # Exercice 6 : Delete a branch
   ## 1. Delete your branch on local repository.
   ```
