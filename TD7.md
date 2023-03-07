@@ -87,7 +87,7 @@ the master branch).
  # Exercice 6 : Delete a branch
   ## 1. Delete your branch on local repository.
   ```
-  git branch -d my-branch
+  git branch -d linda_he
   ```
   ## 2. Delete your branch on distant repository.
   ```
