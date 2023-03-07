@@ -40,8 +40,7 @@ git merge main
   ```
   
 # Exercice 4 : Resolve merge conflicts
-  ## 1. Switch back to your own branch (not including the latest changes from
-the master branch).
+  ## 1. Switch back to your own branch (not including the latest changes from the master branch).
   ```
   git checkout linda_he
   ```
@@ -56,8 +55,7 @@ the master branch).
   ```
   git add README.md
   ```
-  ## 4. Pull latest status from the remote repository ’master’ branch into your
-local ’master’ branch.
+  ## 4. Pull latest status from the remote repository ’master’ branch into your local ’master’ branch.
   ```
   git pull origin main
   ```
@@ -65,8 +63,7 @@ local ’master’ branch.
   ```
   git merge linda_he
   ```
-  ## 6. If there are conflicts, we want the paragraph to appear in alphabetical
-order in the final README.md file
+  ## 6. If there are conflicts, we want the paragraph to appear in alphabetical order in the final README.md file
   ```
   sort linda_he.txt > linda_sorted.txt
   ```
