@@ -79,8 +79,7 @@ git merge main
   git pull origin main
   ```
 is up-to-date (contains all the paragraphs and the new line).
-## 2. Switch back to your own branch (not including the latest changes from
-the master branch).
+## 2. Switch back to your own branch (not including the latest changes fromthe master branch).
 ```
 git checkout linda_he
 ```
