@@ -31,10 +31,14 @@ git branch -a
 token : dans github -> settings -> <developer settings> -> personal access token -> token classic -> generate (cocher reto)
   
 # Exercice 3
+## 1.
 ```
 git checkout linda_he
 git merge main
 ```
+## 2.
+  
+# Exercice 4
 
   
  
