@@ -79,17 +79,22 @@ order in the final README.md file
   
  ## 1. Pull the latest changes in the ’master’ branch, check the README.md
   ```
+  git pull origin main
   ```
 is up-to-date (contains all the paragraphs and the new line).
 ## 2. Switch back to your own branch (not including the latest changes from
 the master branch).
 ```
+git checkout linda_he
 ```
 ## 3. Merge the changes from ’master’ to your own branch.
 ```
+git merge main
 ```
 ## 4. Commit this change 
 ```
+git add README.md
+git commit -m "Enregistrement effectué"
 ```
  # Exercice 6 : Delete a branch
   ## 1. Delete your branch on local repository.
