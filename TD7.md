@@ -49,8 +49,15 @@ git merge main
   ## 2.
   ```
   nano README.md
+  #crtl+O 
+  #crtl+X
   ```
   
+  ## 3.
+  ```
+  git add README.md
+  
+  ```
 
   
  
