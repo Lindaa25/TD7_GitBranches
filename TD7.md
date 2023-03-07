@@ -37,8 +37,20 @@ git checkout linda_he
 git merge main
 ```
 ## 2.
+  ```
+  git push --set-upstream origin linda_he
+  ```
   
 # Exercice 4
+  ## 1.
+  ```
+  git checkout linda_he
+  ```
+  ## 2.
+  ```
+  nano README.md
+  ```
+  
 
   
  
