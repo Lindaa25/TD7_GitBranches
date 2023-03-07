@@ -105,12 +105,12 @@ git commit -m "Enregistrement effectué"
   
 # Exercise 7: Rebase interactively to have a clean history
   
-##Using only the shell in your local repository :
-##1. Pull the latest changes in the ’master’ branch.
+## Using only the shell in your local repository :
+## 1. Pull the latest changes in the ’master’ branch.
  ```
   $ git pull origin main
   ``` 
-##2. Create a new local branch named after you and switch to it.  
+## 2. Create a new local branch named after you and switch to it.  
  ```
   $ git checkout -b linda_he
 
